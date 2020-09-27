@@ -1,4 +1,8 @@
-### Hi there 👋
+## Who I am
+My name is Murilo Correia, I'm a software developer currently working on [Mercado Livre](https://www.mercadolivre.com.br/). I love to learn new things and improve my techniques always embodying the best practices
+
+## External Links
+[Linkedin](https://www.linkedin.com/in/murilo-correiab/)
 
 <!--
 **murilocorreiab/murilocorreiab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
