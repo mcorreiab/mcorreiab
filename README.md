@@ -5,7 +5,7 @@ Hi! I'm Murilo Correia, I'm a software developer currently working on [Mercado L
 - 🇧🇷 I live in Brazil
 - 🏈 Love sports, specially american football
 
-## Technologies
+## 🖥️ Technologies
   [![Kotlin](https://pics.freeicons.io/uploads/icons/png/18852341021548218200-48.png)](https://kotlinlang.org/)
   [![Java](https://pics.freeicons.io/uploads/icons/png/378554371540553613-48.png)](https://www.java.com/pt-BR/)
   [![Go](https://user-images.githubusercontent.com/37126173/135109166-60c3b7ae-92c5-4c44-917a-de417ca9db43.png)](https://golang.org/)
