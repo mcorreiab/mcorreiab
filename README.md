@@ -1,5 +1,5 @@
 # 👋 Who I am
-Hi! I'm Murilo Correia, I'm a software developer currently working on [Mercado Livre](https://www.mercadolivre.com.br/). I love to learn new things and improve my techniques always embodying the best practices
+Hi! I'm Murilo Correia, I'm a software developer currently working on [SkipTheDishes](https://www.skipthedishes.com/). I love to learn new things and improve my techniques always embodying the best practices
 
 - 😀 My pronoums are He/Him
 - 🇧🇷 I live in Brazil
